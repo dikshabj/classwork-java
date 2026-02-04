@@ -2,6 +2,7 @@
 // Use this editor to write, compile and run your Java code online
 //write a program in java to accept salary of an employee and calculate their net payable amount
      //as given criteria , hra @15% , da@7% , pf@5%
+     //wap in java to accept two values and swap them
 import java.util.Scanner;
 class class1 {
     public static void main(String[] args) {
